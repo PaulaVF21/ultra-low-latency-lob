@@ -1,0 +1,25 @@
+# Builds
+build/
+build-debug/
+build-release/
+cmake-build-*/
+
+# Compiled files
+*.o
+*.obj
+*.out
+
+# Debug
+*.log
+
+# Editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Profiling
+callgrind.out.*
+cachegrind.out.*
+perf.data*
